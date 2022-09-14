@@ -1,0 +1,3 @@
+# Koloa Clone 2022 Update
+
+Css is too hard...
